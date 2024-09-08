@@ -1,0 +1,14 @@
+E:\c#LINQ\bin\Debug\net8.0\c#LINQ.exe
+E:\c#LINQ\bin\Debug\net8.0\c#LINQ.deps.json
+E:\c#LINQ\bin\Debug\net8.0\c#LINQ.runtimeconfig.json
+E:\c#LINQ\bin\Debug\net8.0\c#LINQ.dll
+E:\c#LINQ\bin\Debug\net8.0\c#LINQ.pdb
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.AssemblyInfoInputs.cache
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.AssemblyInfo.cs
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.csproj.CoreCompileInputs.cache
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.dll
+E:\c#LINQ\obj\Debug\net8.0\refint\c#LINQ.dll
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.pdb
+E:\c#LINQ\obj\Debug\net8.0\c#LINQ.genruntimeconfig.cache
+E:\c#LINQ\obj\Debug\net8.0\ref\c#LINQ.dll
